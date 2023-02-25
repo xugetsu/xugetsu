@@ -27,3 +27,5 @@ Here are some ideas to get you started:
  ![Snake animation](https://github.com/xugetsu/xugetsu/blob/output/github-contribution-grid-snake.svg)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xugetsu&label=Profile%20views&color=0e75b6&style=flat" alt="xugetsu" /> </p>
+
