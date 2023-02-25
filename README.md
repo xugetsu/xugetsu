@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">A passionate developer from Tunisia</h3>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xugetsu&show_icons=true&locale=en&layout=compact" alt="xugetsu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xugetsu&show_icons=true&locale=en" alt="xugetsu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xugetsu&" alt="xugetsu" /></p>
+
+ ![Snake animation](https://github.com/xugetsu/xugetsu/blob/output/github-contribution-grid-snake.svg)
+
+
