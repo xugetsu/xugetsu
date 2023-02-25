@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xugetsu&" alt="xugetsu" /></p>
 
- ![Snake animation](https://github.com/xugetsu/xugetsu/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="https://github.com/xugetsu/xugetsu/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xugetsu&label=Profile%20views&color=0e75b6&style=flat" alt="xugetsu" /> </p>
 
